@@ -25,7 +25,8 @@ There are couple tips for biginners tocompline .cbl file or Cobol Languages you 
 
 if every thing we talk before are collectly the result should be like this.
 
-![alt text](<Screenshot 2568-08-25 at 21.57.17.png>)
+<img width="521" height="255" alt="Screenshot 2568-08-25 at 21 57 17" src="https://github.com/user-attachments/assets/ac432913-4e37-4704-b42b-55eab11db348" />
+
 
 you guys are free to adjustmend adept and modify whatever to answer your question for learning.
 
